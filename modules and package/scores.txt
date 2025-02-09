@@ -1,0 +1,6 @@
+john, 98
+Hari, 33
+Andrew, 43
+Saimon, 66
+July, 32
+Hari, 62
